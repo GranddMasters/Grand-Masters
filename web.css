@@ -1,0 +1,866 @@
+body{
+  background-color: #121212;
+}
+
+.title{
+  font-family: Aviatica;
+  text-align: center;
+  color: rgb(140, 88, 189);
+  font-size: 30px;
+  text-shadow: 5px 5px 18px rgba(255, 0, 0, 0.274);
+} 
+
+pre{
+  font-family:'Belanosima', sans-serif;
+  margin-left: 550px;
+  color: rgb(140, 88, 189);
+  font-weight: bold;
+  font-size: 50px;
+  text-shadow: 3px 3px 10px rgb(85, 85, 212);
+}
+
+.giger{
+  display: inline-block;
+  height: 50px;
+  margin-top: 0px;
+  
+}
+
+.andrew{
+  height: 300px;
+  display: inline-block;
+  margin-left: 1000px;
+  margin-top: 0px;
+  position: relative;
+  top: -290px;
+}
+
+.logos{
+  height: 40px;
+  display: inline-block;
+}
+
+.borderr{
+  border: solid black 1px;
+  width: 260px;
+  height: 40px;
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 40px;
+  background-color: black;
+  position: absolute;
+  top:500px;
+  left: 1000px;
+  box-shadow: 5px 5px 68px red;
+}
+
+.disc{
+  float: left;
+  height: 100px;
+  margin-left: 550px;
+  position: relative;
+  top: -140px;
+}
+
+.mybutton{
+  position: relative;
+  top: -125px;
+}
+
+.join_ds{
+  margin-left: 20px;
+  height: 80px;
+  width: 500px;
+  cursor: pointer;
+  background-color: #7289da;
+  border: none;
+  border-radius: 100px;
+  color: white;
+  font-family:'Belanosima', sans-serif;
+  font-size: 40px;
+  box-shadow: 5px 5px 50px rgb(140, 88, 189);
+}
+
+.tiktik{
+    float: left;
+    height: 125px;
+    left: -500;
+    position: relative;
+    top: -50px;
+    margin-left: -150px;
+}
+.folow-tiktok{
+  margin-left: 20px;
+  height: 80px;
+  width: 500px;
+  cursor: pointer;
+  background-color: #000000;
+  border: none;
+  border-radius: 100px;
+  color: white;
+  font-family:'Belanosima', sans-serif;
+  font-size: 40px;
+  top: -25px;
+  position: relative;
+  margin-left: -20px;
+  box-shadow: 5px 5px 50px rgb(140, 88, 189);
+}
+
+.title-logo{
+  font-family: 'Belanosima', sans-serif;
+  color: rgb(140, 88, 189);
+  text-shadow: 5px 5px 5px rgba(140, 88, 189, 0.336);
+  font-size: 50px;
+  font-weight: bold;
+  position: relative;
+  top: 150px;
+  left: -150px;
+} 
+
+.arroww{
+  height: 340px;
+  position: relative;
+  bottom: -110px;
+  left: 700px;
+}
+
+.logo1{
+  height: 350px;
+  position: relative;
+  left: 1200px;
+  top: -100px;
+  border: solid black 1px;
+  padding: 30px;
+  background-color: black;
+  border-radius: 30px;
+  box-shadow: 10px 10px 60px red;
+}
+
+#justabox{
+  border: solid 1px rgb(0, 0, 0);
+  width: 500px;
+  display: inline-block; 
+  position: absolute;
+  left: 500px;
+  background-color: #1433a470;
+  border-radius: 40px;
+  box-shadow: 5px 5px 69px #3F00FF;
+}
+.mot{
+  right: 500px;
+  display: inline-block;
+  position: relative;
+}
+
+.description{
+font-family:'Belanosima', sans-serif;
+margin-left: 550px;
+color: rgb(140, 88, 189);
+font-weight: bold;
+font-size: 20px;
+text-shadow: 3px 3px 10px rgb(85, 85, 212);
+position: relative;
+display: block;
+left: -75px;
+}
+p{
+  font-family:sans-serif;
+margin-left: 550px;
+color: rgb(255, 255, 255);
+font-weight: bold;
+font-size: 20px;
+text-shadow: 3px 3px 10px rgb(85, 85, 212);
+position: relative;
+display: block;
+left: -75px;
+margin-right: 150px;
+}
+
+.title3{
+  font-family:'Belanosima', sans-serif;
+  color: rgb(140, 88, 189);
+  font-weight: bold;
+  font-size: 50px;
+  text-shadow: 3px 3px 10px rgb(85, 85, 212);
+  position: relative;
+  display: block;
+  text-align: center;
+  }
+
+  .arrow2{
+    height: 340px;
+  position: relative;
+  bottom: -110px;
+  left: 450px;
+  top: -50px;
+  height: 300px;
+  }
+
+  .ronneycoleman{
+    height: 500px;
+    display: block;
+    margin: auto;
+    top: -0px;
+    position: relative;
+    left: 400px;
+    top: 150px;
+  }
+
+  
+  @media screen and (min-width: 320px) {
+    .title{
+      margin: auto;
+      font-size: 50px;
+      position: relative;
+      left: 220px;
+    }
+    pre{
+      margin-left: 3px;
+      font-size: 50px;
+    }
+    .andrew{
+      height: 300px;
+      margin-left: 390px;
+      margin-top: 160px;
+      top: 350px;
+      position: absolute;
+    }
+    
+    .logos{
+      height: 40px;
+      left: -400px;
+      top: -10px;
+    }
+    .borderr{
+      top:765px;
+      left:400px;
+    }
+    .disc{
+      margin-left: 10px;
+      top: 210px;
+      height: 100px;
+    }
+  .mybutton{
+    top: 215px;
+    margin-left: 120px;
+    }
+    .join_ds{
+      height: 90px;
+      width: 500px;
+    }
+    
+.tiktik{
+  top: 245px;
+  margin-left: -140px;
+}
+.folow-tiktok{
+margin-left: 140px;
+top: 145px;
+height: 90px;
+width: 500px;
+}
+
+.title-logo{
+  font-size: 50px;
+  left: 50px;
+  top: 250px;
+} 
+.arroww{
+  height: 200px;
+  left: 200px;
+  top: 200px;
+}
+.logo1{
+  height: 150px;
+  left: 475px;
+  top: 50px;
+  padding: 30px;
+}
+#justabox{
+  width: 35 0px;
+  left: 100px;
+  border-radius: 40px;
+  position: absolute;
+  height: 350px;
+  top: 1750px;
+}
+.mot{
+  right: 0px;
+  position: relative;
+  font-size: 40px;
+}
+.description{
+  left: -300px;
+  font-size: 30px;
+  position: relative;
+  display: block;
+  }
+  p{
+  font-size: 25px;
+  margin-right: -460px;
+  position: relative;
+  left: 5px;
+  margin-left: 2px;
+  }
+.title3{
+  font-size: 40px;
+  margin-left: 5px;
+  left: 250px;
+  position: relative;
+  }
+
+  .arrow2{
+  left: 350px;
+  top: -10px;
+  height: 150px;
+  }
+  .ronneycoleman{
+    height: 500px;
+    margin: auto;
+    position: relative;
+    margin: auto;
+    top: -00px;
+    display: block;
+    right: 400px;
+  }
+  }
+
+  @media screen and (min-width: 375px) {
+    .title{
+      margin: auto;
+      font-size: 50px;
+      position: relative;
+      left: 220px;
+    }
+    pre{
+      margin-left: 3px;
+      font-size: 60px;
+    }
+    .andrew{
+      height: 400px;
+      margin-left: 390px;
+      margin-top: 160px;
+      top: 350px;
+      position: absolute;
+    }
+    
+    .logos{
+      height: 40px;
+      left: 30px;
+      top: 10px;
+      position: relative;
+    }
+    .borderr{
+      top:865px;
+      left:400px;
+      padding-left: 20px;
+      padding-right: 70px;
+      position: absolute;
+      padding-bottom: 30px;
+    }
+    .disc{
+      margin-left: 10px;
+      top: 230px;
+      height: 100px;
+    }
+  .mybutton{
+    top: 240px;
+    margin-left: 120px;
+    }
+    .join_ds{
+      height: 90px;
+      width: 500px;
+    }
+    
+.tiktik{
+  top: 285px;
+  margin-left: -140px;
+}
+.folow-tiktok{
+margin-left: 140px;
+top: 185px;
+height: 90px;
+width: 500px;
+}
+
+.title-logo{
+  font-size: 50px;
+  left: 50px;
+  top: 250px;
+} 
+.arroww{
+  height: 200px;
+  left: 200px;
+  top: 200px;
+}
+.logo1{
+  height: 150px;
+  left: 475px;
+  top: 50px;
+  padding: 30px;
+}
+#justabox{
+  width: 350px;
+  left: 100px;
+  border-radius: 40px;
+  position: absolute;
+  height: 350px;
+  top: 1850px;
+}
+.mot{
+  right: 0px;
+  position: relative;
+  font-size: 40px;
+}
+.description{
+  left: -300px;
+  font-size: 30px;
+  position: relative;
+  display: block;
+  }
+  p{
+  font-size: 25px;
+  margin-right: -430px;
+  position: relative;
+  left: 5px;
+  margin-left: 2px;
+  }
+.title3{
+  font-size: 40px;
+  margin-left: 5px;
+  left: 250px;
+  position: relative;
+  top: -102px;
+  }
+
+  .arrow2{
+  left: 250px;
+  top: -100px;
+  height: 250px;
+  }
+  .ronneycoleman{
+    height: 550px;
+    margin: auto;
+    position: relative;
+    margin: auto;
+    top: 0px;
+    display: block;
+    right: 425px;
+  }
+  }
+  @media screen and (min-width: 768px) {
+    .title{
+      left: 150px;
+    }
+    pre{
+      margin-left: 100px;
+      font-size: 50px;
+    }
+    .andrew{
+      height: 400px;
+      margin-left: 600px;
+      position: absolute;
+    }
+    
+    .logos{
+      height: 50px;
+      left: -10px;
+      top: 5px;
+    }
+    .borderr{
+      top:850px;
+      left: 600px;
+    }
+    .disc{
+      margin-left: 70px;
+      top: 400px;
+    }
+  .mybutton{
+    top: 410px;
+    }
+    
+.tiktik{
+  left: 5px;
+  top: 470px;
+  margin-left: -150px;
+}
+.folow-tiktok{
+margin-left: 185px;
+top: 370px;
+}
+
+.title-logo{
+  font-size: 50px;
+  left: 150px;
+  top: 500px;
+} 
+.arroww{
+  height: 240px;
+  bottom: -160px;
+  left: 200px;
+  top: 450px;
+}
+.logo1{
+  height: 250px;
+  left: 550px;
+  top: 200px;
+  padding: 30px;
+}
+#justabox{
+  width: 400px;
+  left: 100px;
+  border-radius: 40px;
+  position: absolute;
+  top: 2000px;
+}
+.mot{
+  right: 100px;
+  position: relative;
+}
+.description{
+  margin-left: 400px;
+  top: 200px;
+  }
+  p{
+  margin-left: 100px;
+  margin-right: -155px;
+  top: 190px;
+  }
+.title3{
+  font-size: 39px;
+  margin-right: 185px ;
+  top: 100px;
+  }
+
+  .arrow2{
+  left: 300px;
+  top: 100px;
+  height: 300px;
+  }
+  .ronneycoleman{
+    height: 500px;
+    margin: auto;
+    position: relative;
+    right: 400px;
+  }
+  
+  }
+  @media screen and (min-width: 1024px){
+    .title{
+      left: 150px;
+    }
+    pre{
+      margin-left: 100px;
+      font-size: 50px;
+    }
+    .andrew{
+      height: 400px;
+      margin-left: 700px;
+      position: absolute;
+    }
+    
+    .logos{
+      height: 50px;
+      left: 0px;
+      top: 5px;
+    }
+    .borderr{
+      top:850px;
+      left: 700px;
+    }
+    .disc{
+      margin-left: 90px;
+      top: 400px;
+    }
+  .mybutton{
+    top: 410px;
+    }
+    
+.tiktik{
+  left: 5px;
+  top: 470px;
+  margin-left: -150px;
+}
+.folow-tiktok{
+margin-left: -20px;
+top: 500px;
+}
+
+.title-logo{
+  font-size: 50px;
+  left: -50px;
+  top: 600px;
+} 
+.arroww{
+  height: 240px;
+  bottom: -160px;
+  left: 300px;
+  top: 550px;
+}
+.logo1{
+  height: 250px;
+  left: 650px;
+  top: 350px;
+  padding: 30px;
+}
+#justabox{
+  width: 400px;
+  left: 100px;
+  border-radius: 40px;
+  position: absolute;
+  top: 2000px;
+}
+.mot{
+  right: 100px;
+  position: relative;
+}
+.description{
+  margin-left: 400px;
+  top: 300px;
+  }
+  p{
+  margin-left: 100px;
+  margin-right: -155px;
+  top: 290px;
+  }
+.title3{
+  font-size: 39px;
+  margin-right: 255px ;
+  top: 200px;
+  }
+
+  .arrow2{
+  left: 300px;
+  top: 200px;
+  height: 300px;
+  }
+  .ronneycoleman{
+    height: 500px;
+    margin: auto;
+    position: relative;
+    right: 400px;
+  }
+  
+  }
+  @media screen and (min-width: 1440px){
+    .title{
+      left: 150px;
+    }
+    pre{
+      margin-left: 300px;
+      font-size: 50px;
+    }
+    .andrew{
+      height: 450px;
+      margin-left: 800px;
+      position: absolute;
+      top: 160px;
+    }
+    
+    .logos{
+      height: 50px;
+      left: 20px;
+      top: 5px;
+    }
+    .borderr{
+      top: 700px;
+      left: 805px;
+      width: 320px;
+      height: 45px;
+    }
+    .disc{
+      margin-left: 290px;
+      top: 400px;
+    }
+  .mybutton{
+    top: 410px;
+    }
+    
+.tiktik{
+  left: 5px;
+  top: 470px;
+  margin-left: -150px;
+}
+.folow-tiktok{
+margin-left: -20px;
+top: 500px;
+}
+
+.title-logo{
+  font-size: 60px;
+  left: 300px;
+  top: 600px;
+} 
+.arroww{
+  height: 300px;
+  bottom: -160px;
+  left: 500px;
+  top: 550px;
+}
+.logo1{
+  height: 300px;
+  left: 900px;
+  top: 350px;
+  padding: 30px;
+}
+#justabox{
+  width: 400px;
+  left: 300px;
+  border-radius: 40px;
+  position: absolute;
+  top: 2000px;
+}
+.mot{
+  right: 300px;
+  position: relative;
+}
+.description{
+  margin-left: 500px;
+  top: 300px;
+  }
+  p{
+  margin-left: 200px;
+  margin-right: 100px;
+  top: 290px;
+  }
+.title3{
+  font-size: 59px;
+  margin-right: 255px ;
+  top: 200px;
+  }
+
+  .arrow2{
+  left: 300px;
+  top: 200px;
+  height: 300px;
+  }
+  .ronneycoleman{
+    height: 600px;
+    margin: auto;
+    position: relative;
+    left: 50px;
+  }
+}
+  @media screen and (min-width: 2560px){
+    
+  .title{
+    left: 150px;
+    font-size: 100px;
+  }
+  pre{
+    margin-left: 500px;
+    font-size: 100px;
+  }
+  .andrew{
+    height: 750px;
+    margin-left: 1600px;
+    position: absolute;
+    top: 560px;
+  }
+  
+  .logos{
+    height: 100px;
+    left: 20px;
+    top: 5px;
+  }
+  .borderr{
+    top: 1400px;
+    left: 1605px;
+    width: 640px;
+    height: 90px;
+    border-radius: 100px;
+  }
+  .disc{
+    margin-left: 490px;
+    top: 600px;
+    height: 200px;
+  }
+.mybutton{
+  top: 610px;
+  }
+  
+.join_ds{
+  margin-left: 20px;
+  height: 160px;
+  width: 1000px;
+  cursor: pointer;
+  font-size: 80px;
+}
+  
+.tiktik{
+left: 5px;
+top: 750px;
+margin-left: -325px;
+height: 275px;
+}
+.folow-tiktok{
+margin-left: -75px;
+top: 825px;
+height: 160px;
+  width: 1000px;
+  font-size: 80px;
+}
+
+.title-logo{
+font-size: 120px;
+left: -300px;
+top: 950px;
+} 
+.arroww{
+height: 600px;
+left: 900px;
+top: 850px;
+}
+.logo1{
+height: 500px;
+left: 1800px;
+top: 350px;
+padding: 30px;
+}
+#justabox{
+width: 800px;
+left: 300px;
+border-radius: 40px;
+position: absolute;
+top: 3470px;
+height: 700px;
+
+}
+.mot{
+  font-size: 100px;
+right: 500px;
+position: relative;
+top: -100px;
+}
+.description{
+margin-left: 600px;
+top: 600px;
+font-size: 70px;
+}
+p{
+margin-left: 300px;
+margin-right: 100px;
+top: 590px;
+font-size: 60px;
+}
+.title3{
+font-size: 100px;
+margin-right: 255px ;
+top: 500px;
+}
+
+.arrow2{
+left: 600px;
+top: 500px;
+height: 600px;
+}
+.ronneycoleman{
+  height: 1200px;
+  margin: auto;
+  position: relative;
+  left: 250px;
+}
+  }
